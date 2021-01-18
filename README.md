@@ -206,27 +206,27 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 Fork the GitHub repo https://github.com/jwasham/coding-interview-university by clicking on the Fork button
 
-[x] Clone to your local repo
+    Clone to your local repo
 
-`git clone git@github.com:<your_github_username>/coding-interview-university.git`
+- [x] `git clone git@github.com:<your_github_username>/coding-interview-university.git`
 
-`git checkout -b progress`
+- [x] `git checkout -b progress`
 
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
+- [x] `git remote add jwasham https://github.com/jwasham/coding-interview-university`
 
-`git fetch --all`
+- [x] `git fetch --all`
 
-[x] Mark all boxes with X after you completed your changes
+    Mark all boxes with X after you completed your changes
 
-`git add .`
+- [x] `git add .`
 
-`git commit -m "Marked x"`
+- [x] `git commit -m "Marked x"`
 
-`git rebase jwasham/master`
+- [x] `git rebase jwasham/master`
 
-`git push --set-upstream origin progress`
+- [x] `git push --set-upstream origin progress`
 
-`git push --force`
+- [x] `git push --force`
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
